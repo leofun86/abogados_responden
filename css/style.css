@@ -28,6 +28,7 @@ a { text-decoration:none!important; }
 #header span {
     color:white;
     margin-left:10vw;
+    font-size:1.2vw;
 }
 #navbar {
     display:flex!important;
